@@ -1,0 +1,70 @@
+body a:link, a:visited{
+	text-decoration: none;
+	
+}
+body{
+	background-color: #5aa;
+	padding:5px;
+	
+}
+p.mf {
+    line-height: 1.5em;
+	text-align: justify;
+    
+}
+h2,h1,h3 {
+	color: #163B65;
+}
+
+    #labresz{
+   	color:#bababa;
+	font-size:70%;
+	text-align:center;
+	margin: 0 auto;
+	float: middle;
+	opacity:0.8;
+	padding-top: 10px
+	}
+	
+	#fomenu {
+		width:800px;
+		border-bottom:thick dotted #faa;
+		border-top: :thick dotted #faa;
+	}
+
+	#logo{
+		float: right;
+ 		position: absolute;
+	}
+	
+	#leiras{  
+		min-height: 400px;
+		padding-top :15px;
+		padding-left: 50px; 
+		padding-right: 50px;
+	}
+	
+
+	
+	.fomenu {
+	text-decoration: none;
+	line-height: normal;
+	color: #163B65;
+	font-weight: bold;
+	font-size:110%;
+}
+	
+	.oldal {
+		
+	position: relative;
+	margin-left:auto;
+	margin-right:auto;
+	width:800px;
+	background-color: #FFF;
+	padding:7px;
+	}
+
+	.a{
+		margin-left: 15px;
+	}
+ 
